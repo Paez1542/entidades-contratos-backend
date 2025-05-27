@@ -1,0 +1,12 @@
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/service/ContratoService.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/service/EntidadService.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/EntidadesContratosBackendApplication.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/controller/EntidadController.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/repository/ContratoRepository.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/repository/EntidadRepository.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/dto/ContratoDTO.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/controller/ContratoController.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/dto/EntidadDTO.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/entity/Contrato.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/config/ModelMapperConfig.java
+/home/estudiante/entidades-contratos-backend/src/main/java/com/example/demo/entity/Entidad.java
